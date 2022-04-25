@@ -12,11 +12,11 @@ I'm Christopher and I'm Full Stack Engineer
 
 - [<img align="left" style="margin-right:10px" target="_blank" alt="Python" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/python.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/python.png "Python")Python
 -->
-- [<img align="left" style="margin-right:10px" target="_blank" alt="CSS" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/css.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/css.png "CSS")CSS
+- [<img align="left" style="margin-right:10px" target="_blank" alt="CSS" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/css.png?raw=true" />](https://github.com/chistoperez "CSS")CSS
 
-- [<img align="left" style="margin-right:10px" target="_blank" alt="HTML" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/HTML.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/HTML.png "HTML") HTML
+- [<img align="left" style="margin-right:10px" target="_blank" alt="HTML" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/HTML.png?raw=true" />](https://github.com/chistoperez "HTML") HTML
 
-- [<img align="left" style="margin-right:10px" target="_blank" alt="JavaScript" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/javascript.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/javascript.png "Javascript")JavaScript
+- [<img align="left" style="margin-right:10px" target="_blank" alt="JavaScript" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/javascript.png?raw=true" />](https://github.com/chistoperez "Javascript")JavaScript
 
 
 
@@ -33,9 +33,9 @@ I'm Christopher and I'm Full Stack Engineer
 
 ### Libraries / Frameworks
 
-- [<img align="left" style="margin-right:10px" target="_blank" alt="React" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/react.png?raw=true"/>](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/react.png "React")React
+- [<img align="left" style="margin-right:10px" target="_blank" alt="React" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/react.png?raw=true"/>](https://github.com/chistoperez "React")React
 
-- [<img align="left" style="margin-right:10px" target="_blank" alt="Vue" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/Vue.png?raw=true"/>](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/Vue.png "Vue")Vue
+- [<img align="left" style="margin-right:10px" target="_blank" alt="Vue" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/Vue.png?raw=true"/>](https://github.com/chistoperez "Vue")Vue
 
 <!--
 
@@ -51,11 +51,11 @@ I'm Christopher and I'm Full Stack Engineer
 -->
 ### Backend / Database
 
-- [<img align="left" style="margin-right:10px; border-radius:50%"  target="_blank" alt="Express" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/express.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/express.png "Express")Express
+- [<img align="left" style="margin-right:10px; border-radius:50%"  target="_blank" alt="Express" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/express.png?raw=true" />](https://github.com/chistoperez "Express")Express
 
-- [<img align="left" style="margin-right:10px" target="_blank" alt="MongoDB" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/mongodb-leaf.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/mongodb-leaf.png "MongoDB")MongoDB
+- [<img align="left" style="margin-right:10px" target="_blank" alt="MongoDB" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/mongodb-leaf.png?raw=true" />](https://github.com/chistoperez "MongoDB")MongoDB
 
-- [<img align="left" style="margin-right:10px" target="_blank" alt="NodeJS" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/nodejs.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/nodejs.png "node.js")node.js
+- [<img align="left" style="margin-right:10px" target="_blank" alt="NodeJS" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/nodejs.png?raw=true" />](https://github.com/chistoperez "node.js")node.js
 
 
 <!--
