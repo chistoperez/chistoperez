@@ -5,10 +5,13 @@ I'm Christopher and I'm Full Stack Engineer
 
 ### Programming Languages
 
+<!--
 - [<img align="left" style="margin-right:10px" target="_blank" alt="C plus plus" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/Cplusplus.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/Cplusplus.png "C++")C++
 
 - [<img align="left" style="margin-right:10px" target="_blank" alt="C sharp" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/Csharp.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/Csharp.png "C#")C#
 
+- [<img align="left" style="margin-right:10px" target="_blank" alt="Python" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/python.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/python.png "Python")Python
+-->
 - [<img align="left" style="margin-right:10px" target="_blank" alt="CSS" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/css.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/css.png "CSS")CSS
 
 - [<img align="left" style="margin-right:10px" target="_blank" alt="HTML" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/HTML.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/HTML.png "HTML") HTML
@@ -17,8 +20,6 @@ I'm Christopher and I'm Full Stack Engineer
 
 
 
-
-- [<img align="left" style="margin-right:10px" target="_blank" alt="Python" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/python.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/python.png "Python")Python
 <!--
 - [<img align="left" style="margin-right:10px" target="_blank" alt="Kotlin" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/kotlin.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/kotlin.png "Kotlin")Kotlin
 
@@ -36,6 +37,8 @@ I'm Christopher and I'm Full Stack Engineer
 
 - [<img align="left" style="margin-right:10px" target="_blank" alt="Vue" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/Vue.png?raw=true"/>](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/Vue.png "Vue")Vue
 
+<!--
+
 - [<img align="left" style="border-radius:50%; margin-right:10px" target="_blank" alt="Bootstrap" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/bootstrap-logo.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/bootstrap-logo.png "Bootstrap")Bootstrap
 
 - [<img align="left" style="margin-right:10px; border-radius:50%" target="_blank" alt="Chakra UI" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/Chakra.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/Chakra.png "Chakra UI")Chakra UI
@@ -44,9 +47,6 @@ I'm Christopher and I'm Full Stack Engineer
 
 - [<img align="left" style="margin-right:10px" target="_blank" alt="Sass" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/sass.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/sass.png "Sass")Sass
 
-
-
-<!--
 - [<img align="left" style="margin-right:10px" target="_blank" alt="Tailwind" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/tailwind.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/tailwind.png "Tailwind")Tailwind
 -->
 ### Backend / Database
