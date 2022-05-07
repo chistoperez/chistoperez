@@ -8,7 +8,7 @@ Full Stack Developer
 * 🖥️  See my portfolio at [portfolio](http://chistoperez.github.io/)
 * ✉️  You can contact me at [chistoperez@gmail.com](mailto:chistoperez@gmail.com)
 * 🧠  I'm learning TypeScript
-* 🤝  I'm open to collaborating on interesting proyects
+* 🤝  Let's work together
 
 <a href="https://www.twitter.com/chistoperez" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/chistoperez?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
