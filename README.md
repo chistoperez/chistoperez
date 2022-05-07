@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Christopher and I'm Full Stack Engineer
+I'm Christopher and I'm FullStack Developer
 
 
 ### Programming Languages
