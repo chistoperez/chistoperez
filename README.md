@@ -1,76 +1,47 @@
-### Hi there 👋
+Hi there 👋 My name is Christopher Pérez
+==================================
 
-I'm Christopher and I'm Full Stack Developer
+Full Stack Developer
+--------------------
 
+* 🌍  I'm based in México
+* 🖥️  See my portfolio at [portfolio](http://chistoperez.github.io/)
+* ✉️  You can contact me at [chistoperez@gmail.com](mailto:chistoperez@gmail.com)
+* 🧠  I'm learning TypeScript
+* 🤝  I'm open to collaborating on interesting proyects
 
-### Programming Languages
+<a href="https://www.twitter.com/chistoperez" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/chistoperez?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a><a href="https://www.github.com/chistoperez" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/chistoperez?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-<!--
-- [<img align="left" style="margin-right:10px" target="_blank" alt="C plus plus" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/Cplusplus.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/Cplusplus.png "C++")C++
+### Skills
 
-- [<img align="left" style="margin-right:10px" target="_blank" alt="C sharp" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/Csharp.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/Csharp.png "C#")C#
-
-- [<img align="left" style="margin-right:10px" target="_blank" alt="Python" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/python.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/python.png "Python")Python
--->
-- [<img align="left" style="margin-right:10px" target="_blank" alt="HTML" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/HTML.png?raw=true" />](https://github.com/chistoperez "HTML") HTML
-
-- [<img align="left" style="margin-right:10px" target="_blank" alt="CSS" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/css.png?raw=true" />](https://github.com/chistoperez "CSS")CSS
-
-- [<img align="left" style="margin-right:10px" target="_blank" alt="JavaScript" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/javascript.png?raw=true" />](https://github.com/chistoperez "Javascript")JavaScript
-
-
-
-<!--
-- [<img align="left" style="margin-right:10px" target="_blank" alt="Kotlin" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/kotlin.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/kotlin.png "Kotlin")Kotlin
-
-- [<img align="left" style="margin-right:10px" target="_blank" alt="PHP" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/php.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/php.png "php")php
-
-- [<img align="left" style="margin-right:10px" target="_blank" alt="Ruby" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/ruby.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/ruby.png "Ruby")Ruby
-
-- [<img align="left" style="margin-right:10px" target="_blank" alt="Swift" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/swift.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/swift.png "Swift")Swift
--->
-
-
-### Libraries / Frameworks
-
-- [<img align="left" style="margin-right:10px" target="_blank" alt="React" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/react.png?raw=true"/>](https://github.com/chistoperez "React")React
-
-- [<img align="left" style="margin-right:10px" target="_blank" alt="Vue" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/Vue.png?raw=true"/>](https://github.com/chistoperez "Vue")Vue
-
-<!--
-
-- [<img align="left" style="border-radius:50%; margin-right:10px" target="_blank" alt="Bootstrap" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/bootstrap-logo.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/bootstrap-logo.png "Bootstrap")Bootstrap
-
-- [<img align="left" style="margin-right:10px; border-radius:50%" target="_blank" alt="Chakra UI" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/Chakra.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/Chakra.png "Chakra UI")Chakra UI
-
-- [<img align="left" style="margin-right:10px" target="_blank" alt="Material UI" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/material.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/material.png "Material UI")Material UI
-
-- [<img align="left" style="margin-right:10px" target="_blank" alt="Sass" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/sass.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/sass.png "Sass")Sass
-
-- [<img align="left" style="margin-right:10px" target="_blank" alt="Tailwind" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/tailwind.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/tailwind.png "Tailwind")Tailwind
--->
-### Backend / Database
-
-- [<img align="left" style="margin-right:10px; border-radius:50%"  target="_blank" alt="Express" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/express.png?raw=true" />](https://github.com/chistoperez "Express")Express
-
-- [<img align="left" style="margin-right:10px" target="_blank" alt="NodeJS" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/nodejs.png?raw=true" />](https://github.com/chistoperez "Node.js")Node.js
-
-- [<img align="left" style="margin-right:10px" target="_blank" alt="mySQL" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/mysql-logo.png?raw=true" />](https://github.com/chistoperez "mySQL")mySQL
-
-- [<img align="left" style="margin-right:10px" target="_blank" alt="mySQL" width="26px" src="https://user-images.githubusercontent.com/99354481/166969440-f0647e39-cb1f-473c-ac6f-1285f760ce8d.png?raw=true" />](https://github.com/chistoperez "PostgreSQL")postgreSQL
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
+</p>
 
 
-- [<img align="left" style="margin-right:10px" target="_blank" alt="MongoDB" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/mongodb-leaf.png?raw=true" />](https://github.com/chistoperez "MongoDB")MongoDB
+### Socials
 
+<p align="left"> <a href="https://www.dev.to/chistoperez" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.github.com/chistoperez" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/chistoperez" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/chistoperez" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-<!--
-- [<img align="left" style="margin-right:10px" target="_blank" alt="Firebase" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/firebase-logo.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/firebase-logo.png "Firebase")Firebase
+### Badges
 
+<b>My GitHub Stats</b>
 
+<a href="http://www.github.com/chistoperez"><img src="https://github-readme-stats.vercel.app/api?username=chistoperez&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="chistoperez's GitHub stats" /></a>
 
--->
+<a href="http://www.github.com/chistoperez"><img src="https://github-readme-streak-stats.herokuapp.com/?user=chistoperez&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
+<a href="http://www.github.com/chistoperez"><img src="https://activity-graph.herokuapp.com/graph?username=chistoperez&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-
-
-
+<a href="https://github.com/chistoperez" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chistoperez&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
