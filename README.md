@@ -1,4 +1,4 @@
-Hi there 👋 My name is Christopher Pérez
+Hi there 👋 I am Christopher Pérez
 ==================================
 
 Full Stack Developer
