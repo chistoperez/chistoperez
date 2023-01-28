@@ -1,13 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Christopher
 ===================================================================================================================================
 
-Software Developer Front End Junior
+Front End Developer
 -----------------------------------
 
 *   🌍  I'm based in Mérida, Yucatán, México
 *   🖥️  See my portfolio at [chistoperez.com](http://chistoperez.github.io/)
 *   ✉️  You can contact me at [chistoperez@gmail.com](mailto:chistoperez@gmail.com)
-*   🧠  I'm learning GraphQL
+*   🧠  I'm learning gRPC
 *   🤝  I'm open to collaborating on open source projects
 
 <a href="https://www.twitter.com/chistoperez" target="_blank" rel="noreferrer"><img
