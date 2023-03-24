@@ -1,6 +1,6 @@
 ![Header](https://user-images.githubusercontent.com/99354481/227445276-2473bce2-e513-4fa5-81aa-250d626eb29f.png)
 -----------------------------------
-<img align="right" src="https://thumbs.gfycat.com/ElasticSatisfiedGoose-size_restricted.gif" />  
+<img align="right" src="https://thumbs.gfycat.com/ElasticSatisfiedGoose-size_restricted.gif" /> <br /> 
 
 *   🌍  I'm based in Mérida, Yucatán, México
 *   🖥️  See my portfolio at [chistoperez.com](http://chistoperez.github.io/)
@@ -8,12 +8,12 @@
 *   🧠  I'm learning Micro Frontend
 *   🤝  I'm open to collaborating on open source projects
 
-<a href="https://www.twitter.com/chistoperez" target="_blank" rel="noreferrer">
+<br /><a href="https://www.twitter.com/chistoperez" target="_blank" rel="noreferrer">
   <img
                   src="https://img.shields.io/twitter/follow/chistoperez?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-                /></a>
+                /></a><br /><br />
               <a href="https://www.github.com/chistoperez" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/chistoperez?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+                  src="https://img.shields.io/github/followers/chistoperez?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><br /><br />
 
 -----------------------------------
 
