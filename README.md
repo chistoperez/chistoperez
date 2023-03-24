@@ -1,6 +1,6 @@
 ![Header](https://user-images.githubusercontent.com/99354481/227445276-2473bce2-e513-4fa5-81aa-250d626eb29f.png)
 -----------------------------------
-<img align="right" src="https://thumbs.gfycat.com/ElasticSatisfiedGoose-size_restricted.gif" /> <br /> 
+<img align="right" src="https://thumbs.gfycat.com/ElasticSatisfiedGoose-size_restricted.gif" /> 
 
 *   🌍  I'm based in Mérida, Yucatán, México
 *   🖥️  See my portfolio at [chistoperez.com](http://chistoperez.github.io/)
