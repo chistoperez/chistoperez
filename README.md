@@ -8,7 +8,7 @@
 *   🧠  I'm learning Micro Frontend
 *   🤝  I'm open to collaborating on open source projects
 
-<br /><a href="https://www.twitter.com/chistoperez" target="_blank" rel="noreferrer">
+<a href="https://www.twitter.com/chistoperez" target="_blank" rel="noreferrer">
   <img
                   src="https://img.shields.io/twitter/follow/chistoperez?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
                 /></a><br /><br />
