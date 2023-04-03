@@ -3,7 +3,7 @@
 <img align="right" src="https://thumbs.gfycat.com/ElasticSatisfiedGoose-size_restricted.gif" /> 
 
 *   🌍  I'm based in Mérida, Yucatán, México
-*   🖥️  See my portfolio at [chistoperez.com](http://chistoperez.github.io/)
+*   🖥️  See my portfolio at [chistoperez.vercel.app](https://chistoperez.vercel.app/)
 *   ✉️  You can contact me at [chistoperez@gmail.com](mailto:chistoperez@gmail.com)
 *   🧠  I'm learning Micro Frontend
 *   🤝  I'm open to collaborating on open source projects
