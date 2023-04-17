@@ -5,7 +5,7 @@
 *   🌍  I'm based in Mérida, Yucatán, México
 *   🖥️  See my portfolio at [chistoperez.vercel.app](https://chistoperez.vercel.app/)
 *   ✉️  You can contact me at [chistoperez@gmail.com](mailto:chistoperez@gmail.com)
-*   🧠  I'm learning Micro Frontend
+*   🧠  I'm learning Solidity
 *   🤝  I'm open to collaborating on open source projects
 
 <a href="https://www.twitter.com/chistoperez" target="_blank" rel="noreferrer">
