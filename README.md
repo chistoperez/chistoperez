@@ -3,7 +3,6 @@
 <img align="right" src="https://thumbs.gfycat.com/ElasticSatisfiedGoose-size_restricted.gif" /> 
 
 *   🌍  I'm based in Mérida, Yucatán, México
-*   🖥️  See my portfolio at [chistoperez.vercel.app](https://chistoperez.vercel.app/)
 *   ✉️  You can contact me at [chistoperez@gmail.com](mailto:chistoperez@gmail.com)
 *   🧠  I'm learning Solidity
 *   🤝  I'm open to collaborating on open source projects
@@ -27,10 +26,7 @@
   ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) 
   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) 
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) 
-  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) 
-  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white)
   ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white) 
-  ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=plastic&logo=graphql&logoColor=white) 
 
                     
 ### Socials
