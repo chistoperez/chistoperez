@@ -4,7 +4,6 @@
 
 *   🌍  I'm based in Mérida, Yucatán, México
 *   ✉️  You can contact me at [chistoperez@gmail.com](mailto:chistoperez@gmail.com)
-*   🧠  I'm learning Solidity
 *   🤝  I'm open to collaborating on open source projects
 
 <a href="https://www.twitter.com/chistoperez" target="_blank" rel="noreferrer">
